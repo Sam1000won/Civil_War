@@ -1,2 +1,7 @@
 # Civil_War
-Balance patch program to build a civil war team in game roll gatherings
+게임 롤 모임에서 내전 팀을 구축하기 위한 밸런스 패치 프로그램
+
+## 개요
+
+사람이 직접 팀을 만들다보니 어느 한부분에 힘이 많이 쏠리는 경향이 있는거 같다.
+따라서 좀 더 재미있는 내전을 만들기 위해서 프로그램을 만드려고 한다.

@@ -12,4 +12,4 @@
 
 ## 순서도
 
-![Flowchart](https://github.com/user-attachments/assets/33d0fb9c-44a6-40ee-a3c2-408a4c187603)
+![Flowchart (1)](https://github.com/user-attachments/assets/48fdf429-eb62-4fd6-999e-fad4334db8e6)

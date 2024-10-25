@@ -10,12 +10,11 @@
 
 ## DFD
 
-![DFD](URL_TO_DFD_IMAGE) <!-- DFD 이미지 URL을 여기에 추가하세요. -->
+![DFD](https://github.com/user-attachments/assets/8fa36ea9-bc09-4365-8edf-15c2bbeb6ff7)
 
 ## 순서도
 
-![Flowchart](URL_TO_FLOWCHART_IMAGE) <!-- 순서도 이미지 URL을 여기에 추가하세요. -->
-
+![Flowchart (1)](https://github.com/user-attachments/assets/48fdf429-eb62-4fd6-999e-fad4334db8e6) 
 ## 코드 설명
 
 ### `Participant` 클래스
